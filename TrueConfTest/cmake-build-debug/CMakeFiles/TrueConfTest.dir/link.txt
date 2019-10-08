@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TrueConfTest.dir/main.cpp.o CMakeFiles/TrueConfTest.dir/Utils.cpp.o CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o  -o TrueConfTest -lpthread 
