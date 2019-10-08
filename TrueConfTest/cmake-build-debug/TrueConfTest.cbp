@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug"/>
+				<Option working_dir="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug"/>
+				<Option working_dir="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TrueConfTest">
-				<Option output="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/TrueConfTest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug"/>
+				<Option output="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/TrueConfTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 TrueConfTest"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 TrueConfTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TrueConfTest/fast">
-				<Option output="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/TrueConfTest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug"/>
+				<Option output="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/TrueConfTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,45 +67,45 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 TrueConfTest/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 TrueConfTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug"/>
+				<Option working_dir="/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/MapContainer.cpp">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/MapContainer.cpp">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/MapContainer.h">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/MapContainer.h">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/Utils.cpp">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/Utils.cpp">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/Utils.h">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/Utils.h">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/VectorContainer.cpp">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.cpp">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/VectorContainer.h">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.h">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/main.cpp">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/main.cpp">
 			<Option target="TrueConfTest"/>
 		</Unit>
-		<Unit filename="/home/sancho/CLionProjects/TrueConfTest/CMakeLists.txt">
+		<Unit filename="/home/sancho/TrueConfTest/TrueConfTest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

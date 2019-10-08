@@ -19,13 +19,34 @@ int utils::sizeOfContainers(int &size)
     std::cout << "Enter size of containers(> 15): ";
     std::cin >> size;
 
-    if(size <= 15){
+    if(size <= 15)
+    {
         std::cout <<"something's wrong, try again..." << std::endl;
         return sizeOfContainers(size);
     }
     return size;
 
 }
+
+void utils::print(std::vector<int> vector, std::map<int, int> map)
+{
+    std::cout << "VECTOR: " << std::endl;
+    for (auto i : vector)
+    {
+        std::cout << i << std::endl;
+    }
+
+    std::cout << "MAP: " << std::endl;
+    for(auto item = map.begin(); item != map.end(); item++)
+    {
+        std::cout << item->second << std::endl;
+    }
+}
+
+void utils::synchronization(std::vector<int> vector, std::map<int, int> map) {
+
+}
+
 
 
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/sancho/CLionProjects/TrueConfTest/MapContainer.h
+/home/sancho/TrueConfTest/TrueConfTest/MapContainer.h
 iostream
 -
 map
@@ -16,17 +16,19 @@ thread
 mutex
 -
 Utils.h
-/home/sancho/CLionProjects/TrueConfTest/Utils.h
+/home/sancho/TrueConfTest/TrueConfTest/Utils.h
 
-/home/sancho/CLionProjects/TrueConfTest/Utils.h
+/home/sancho/TrueConfTest/TrueConfTest/Utils.h
 random
 -
 iostream
 -
 vector
 -
+map
+-
 
-/home/sancho/CLionProjects/TrueConfTest/VectorContainer.h
+/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.h
 iostream
 -
 vector
@@ -36,15 +38,15 @@ thread
 mutex
 -
 Utils.h
-/home/sancho/CLionProjects/TrueConfTest/Utils.h
+/home/sancho/TrueConfTest/TrueConfTest/Utils.h
 
-/home/sancho/CLionProjects/TrueConfTest/main.cpp
+/home/sancho/TrueConfTest/TrueConfTest/main.cpp
 VectorContainer.h
-/home/sancho/CLionProjects/TrueConfTest/VectorContainer.h
+/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.h
 MapContainer.h
-/home/sancho/CLionProjects/TrueConfTest/MapContainer.h
+/home/sancho/TrueConfTest/TrueConfTest/MapContainer.h
 Utils.h
-/home/sancho/CLionProjects/TrueConfTest/Utils.h
+/home/sancho/TrueConfTest/TrueConfTest/Utils.h
 thread
 -
 map

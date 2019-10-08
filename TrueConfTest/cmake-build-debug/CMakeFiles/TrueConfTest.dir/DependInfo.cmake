@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/sancho/CLionProjects/TrueConfTest/MapContainer.cpp" "/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o"
-  "/home/sancho/CLionProjects/TrueConfTest/Utils.cpp" "/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/Utils.cpp.o"
-  "/home/sancho/CLionProjects/TrueConfTest/VectorContainer.cpp" "/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o"
-  "/home/sancho/CLionProjects/TrueConfTest/main.cpp" "/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/main.cpp.o"
+  "/home/sancho/TrueConfTest/TrueConfTest/MapContainer.cpp" "/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o"
+  "/home/sancho/TrueConfTest/TrueConfTest/Utils.cpp" "/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/Utils.cpp.o"
+  "/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.cpp" "/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o"
+  "/home/sancho/TrueConfTest/TrueConfTest/main.cpp" "/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

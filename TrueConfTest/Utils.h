@@ -9,6 +9,7 @@
 #include <random>
 #include <iostream>
 #include <vector>
+#include <map>
 
 
 
@@ -16,6 +17,8 @@ class utils {
 public:
     static int generator(int start, int end);
     int sizeOfContainers(int &size);
+    void print(std::vector<int> vector, std::map<int, int> map);
+    void synchronization(std::vector<int> vector, std::map<int, int> map);
 
 
 

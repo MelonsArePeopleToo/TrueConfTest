@@ -43,10 +43,10 @@ RM = /home/sancho/Downloads/clion-2019.2.3/bin/cmake/linux/bin/cmake -E remove -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sancho/CLionProjects/TrueConfTest
+CMAKE_SOURCE_DIR = /home/sancho/TrueConfTest/TrueConfTest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sancho/CLionProjects/TrueConfTest/cmake-build-debug
+CMAKE_BINARY_DIR = /home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/TrueConfTest.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/TrueConfTest.dir/flags.make
 
 CMakeFiles/TrueConfTest.dir/main.cpp.o: CMakeFiles/TrueConfTest.dir/flags.make
 CMakeFiles/TrueConfTest.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TrueConfTest.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/main.cpp.o -c /home/sancho/CLionProjects/TrueConfTest/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TrueConfTest.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/main.cpp.o -c /home/sancho/TrueConfTest/TrueConfTest/main.cpp
 
 CMakeFiles/TrueConfTest.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrueConfTest.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/CLionProjects/TrueConfTest/main.cpp > CMakeFiles/TrueConfTest.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/TrueConfTest/TrueConfTest/main.cpp > CMakeFiles/TrueConfTest.dir/main.cpp.i
 
 CMakeFiles/TrueConfTest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrueConfTest.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/CLionProjects/TrueConfTest/main.cpp -o CMakeFiles/TrueConfTest.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/TrueConfTest/TrueConfTest/main.cpp -o CMakeFiles/TrueConfTest.dir/main.cpp.s
 
 CMakeFiles/TrueConfTest.dir/Utils.cpp.o: CMakeFiles/TrueConfTest.dir/flags.make
 CMakeFiles/TrueConfTest.dir/Utils.cpp.o: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TrueConfTest.dir/Utils.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/Utils.cpp.o -c /home/sancho/CLionProjects/TrueConfTest/Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TrueConfTest.dir/Utils.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/Utils.cpp.o -c /home/sancho/TrueConfTest/TrueConfTest/Utils.cpp
 
 CMakeFiles/TrueConfTest.dir/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrueConfTest.dir/Utils.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/CLionProjects/TrueConfTest/Utils.cpp > CMakeFiles/TrueConfTest.dir/Utils.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/TrueConfTest/TrueConfTest/Utils.cpp > CMakeFiles/TrueConfTest.dir/Utils.cpp.i
 
 CMakeFiles/TrueConfTest.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrueConfTest.dir/Utils.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/CLionProjects/TrueConfTest/Utils.cpp -o CMakeFiles/TrueConfTest.dir/Utils.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/TrueConfTest/TrueConfTest/Utils.cpp -o CMakeFiles/TrueConfTest.dir/Utils.cpp.s
 
 CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o: CMakeFiles/TrueConfTest.dir/flags.make
 CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o: ../MapContainer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o -c /home/sancho/CLionProjects/TrueConfTest/MapContainer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o -c /home/sancho/TrueConfTest/TrueConfTest/MapContainer.cpp
 
 CMakeFiles/TrueConfTest.dir/MapContainer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrueConfTest.dir/MapContainer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/CLionProjects/TrueConfTest/MapContainer.cpp > CMakeFiles/TrueConfTest.dir/MapContainer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/TrueConfTest/TrueConfTest/MapContainer.cpp > CMakeFiles/TrueConfTest.dir/MapContainer.cpp.i
 
 CMakeFiles/TrueConfTest.dir/MapContainer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrueConfTest.dir/MapContainer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/CLionProjects/TrueConfTest/MapContainer.cpp -o CMakeFiles/TrueConfTest.dir/MapContainer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/TrueConfTest/TrueConfTest/MapContainer.cpp -o CMakeFiles/TrueConfTest.dir/MapContainer.cpp.s
 
 CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o: CMakeFiles/TrueConfTest.dir/flags.make
 CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o: ../VectorContainer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o -c /home/sancho/CLionProjects/TrueConfTest/VectorContainer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o -c /home/sancho/TrueConfTest/TrueConfTest/VectorContainer.cpp
 
 CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/CLionProjects/TrueConfTest/VectorContainer.cpp > CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sancho/TrueConfTest/TrueConfTest/VectorContainer.cpp > CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.i
 
 CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/CLionProjects/TrueConfTest/VectorContainer.cpp -o CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sancho/TrueConfTest/TrueConfTest/VectorContainer.cpp -o CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.s
 
 # Object files for target TrueConfTest
 TrueConfTest_OBJECTS = \
@@ -125,7 +125,7 @@ TrueConfTest: CMakeFiles/TrueConfTest.dir/MapContainer.cpp.o
 TrueConfTest: CMakeFiles/TrueConfTest.dir/VectorContainer.cpp.o
 TrueConfTest: CMakeFiles/TrueConfTest.dir/build.make
 TrueConfTest: CMakeFiles/TrueConfTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable TrueConfTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable TrueConfTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TrueConfTest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/TrueConfTest.dir/clean:
 .PHONY : CMakeFiles/TrueConfTest.dir/clean
 
 CMakeFiles/TrueConfTest.dir/depend:
-	cd /home/sancho/CLionProjects/TrueConfTest/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sancho/CLionProjects/TrueConfTest /home/sancho/CLionProjects/TrueConfTest /home/sancho/CLionProjects/TrueConfTest/cmake-build-debug /home/sancho/CLionProjects/TrueConfTest/cmake-build-debug /home/sancho/CLionProjects/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sancho/TrueConfTest/TrueConfTest /home/sancho/TrueConfTest/TrueConfTest /home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug /home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug /home/sancho/TrueConfTest/TrueConfTest/cmake-build-debug/CMakeFiles/TrueConfTest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/TrueConfTest.dir/depend
 
