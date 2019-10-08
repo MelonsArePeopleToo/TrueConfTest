@@ -35,9 +35,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d18a97e3-4052-4cef-92f3-3cb1e8e76ad0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TrueConfTest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TrueConfTest.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TrueConfTest.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TrueConfTest.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/TrueConfTest" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TrueConfTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,6 +118,8 @@
       <workItem from="1570451714699" duration="30195000" />
       <workItem from="1570501097702" duration="9163000" />
       <workItem from="1570537012076" duration="151000" />
+      <workItem from="1570555889175" duration="620000" />
+      <workItem from="1570561391963" duration="92000" />
     </task>
     <servers />
   </component>

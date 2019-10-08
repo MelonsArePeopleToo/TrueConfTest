@@ -52,8 +52,8 @@ void threadForMap(std::map<int, int> &map, int num)
 
 int main()
 {
-    std::vector<int> vector;
-    std::map<int, int> map;
+    std::vector<int> vector = {};
+    std::map<int, int> map = {};
 
     int num = 0;
     util->sizeOfContainers(num);
