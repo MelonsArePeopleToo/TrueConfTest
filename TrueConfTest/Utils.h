@@ -18,11 +18,9 @@ public:
     static int generator(int start, int end);
     int sizeOfContainers(int &size);
     void print(std::vector<int> vector, std::map<int, int> map);
-    void synchronization(std::vector<int> vector, std::map<int, int> map);
-
-
-
-
+    void synchronization(std::vector<int> &vector, std::map<int, int> &map);
+    void syncVectorSide(std::vector<int> &vector, std::map<int, int> &map);
+    void syncMapSide(std::vector<int> &vector, std::map<int, int> &map);
 };
 
 

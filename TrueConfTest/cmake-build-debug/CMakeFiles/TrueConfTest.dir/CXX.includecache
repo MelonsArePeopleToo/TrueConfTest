@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/home/sancho/TrueConfTest/TrueConfTest/MapContainer.cpp
+MapContainer.h
+/home/sancho/TrueConfTest/TrueConfTest/MapContainer.h
+
 /home/sancho/TrueConfTest/TrueConfTest/MapContainer.h
 iostream
 -
@@ -18,6 +22,10 @@ mutex
 Utils.h
 /home/sancho/TrueConfTest/TrueConfTest/Utils.h
 
+/home/sancho/TrueConfTest/TrueConfTest/Utils.cpp
+Utils.h
+/home/sancho/TrueConfTest/TrueConfTest/Utils.h
+
 /home/sancho/TrueConfTest/TrueConfTest/Utils.h
 random
 -
@@ -27,6 +35,10 @@ vector
 -
 map
 -
+
+/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.cpp
+VectorContainer.h
+/home/sancho/TrueConfTest/TrueConfTest/VectorContainer.h
 
 /home/sancho/TrueConfTest/TrueConfTest/VectorContainer.h
 iostream
@@ -50,7 +62,5 @@ Utils.h
 thread
 -
 map
--
-unistd.h
 -
 
